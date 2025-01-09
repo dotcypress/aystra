@@ -1,0 +1,7 @@
+id = "aystra"
+name = "Aystra"
+version = "0.0.1"
+schema_version = 1
+authors = ["Vitaly Domnikov <oss@vitaly.codes>"]
+description = "Theme for Zed. Based on 'One Dark Pro' and 'Jane Two' themes."
+repository = "https://github.com/dotcypress/aystra"
