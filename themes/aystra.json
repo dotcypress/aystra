@@ -31,7 +31,7 @@
         "search.match_background": "#d19a6644",
         "panel.background": "#292929",
         "panel.focused_border": "#ff983d",
-        "scrollbar_thumb.background": "#5d595c20",
+        "scrollbar.thumb.background": "#5d595c20",
         "scrollbar.thumb.hover_background": "#5a6375",
         "scrollbar.thumb.border": "#ff983d",
         "scrollbar.track.background": "#292929",
